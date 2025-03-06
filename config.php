@@ -1,12 +1,12 @@
 <?php
 
 $config = array(
-        'theme_name' => 'Signage Shield',
-		'theme_title' => 'Signage Shield',
-		'app_name' => 'Signage Shield',
-		'theme_url' => 'https://cms.signageshield.com/',
-		'cms_source_url' => 'https://cms.signageshield.com/',
-		'cms_install_url' => 'https://cms.signageshield.com/',
-		'cms_release_notes_url' => 'https://cms.signageshield.com/',
+        'theme_name' => 'Magtech Group Signage',
+		'theme_title' => 'Magtech Group Signage',
+		'app_name' => 'Magtech Group Signage',
+		'theme_url' => 'https://xibo.magtg.co/login',
+		'cms_source_url' => 'https://xibo.magtg.co/login',
+		'cms_install_url' => 'https://xibo.magtg.co/login',
+		'cms_release_notes_url' => 'https://xibo.magtg.co/login',
 		'view_path' => '../web/theme/custom/views'
 	);
