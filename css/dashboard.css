@@ -106,7 +106,7 @@ ul.sidebar .sidebar-list {
 ul.sidebar .sidebar-list a {
   text-indent: 16px;
   font-size: 1rem;
-  color: #b2bfdc;
+  color: ##333333;
   line-height: 40px;
 }
 ul.sidebar .sidebar-list a:hover {
@@ -138,7 +138,7 @@ ul.sidebar .sidebar-list a:hover .menu-icon {
   display: none;
 }
 .sidebar-footer div a {
-  color: #b2bfdc;
+  color: ##333333;
   font-size: 0.85rem;
   line-height: 43px;
 }
