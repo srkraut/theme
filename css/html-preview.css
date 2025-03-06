@@ -1,0 +1,40 @@
+/**
+ * Copyright (C) 2019 Xibo Signage Ltd
+ *
+ * Xibo - Digital Signage - http://www.xibo.org.uk
+ *
+ * This file is part of Xibo.
+ *
+ * Xibo is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * any later version.
+ *
+ * Xibo is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with Xibo.  If not, see <http://www.gnu.org/licenses/>.
+ */
+ 
+/* This file is included after the core Layout Preview CSS, replace 
+ * this with a theme to override Layout Preview CSS.
+ */
+
+ /* Style the Splash Screen */
+div.preview-splash {
+    height: 100%;
+    background:#000000 url('../img/sigma.png') no-repeat center center;
+    background-size: 45%;
+}
+div.preview-loader {
+    height: 19px;
+    width: 220px;
+    position: relative;
+    margin:0 auto;
+    top: 75%;
+    background:#000000 url('../img/loader.gif') no-repeat center center;
+    background-size: 100%;
+}
