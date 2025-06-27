@@ -29,6 +29,10 @@ html {
 .xibo-logo {
     height: 45px;
     margin-left: 15px;
+    border: 2px solid #000; /* Adds a solid black border */
+    border-radius: 4px;      /* Optional: smoothens the corners */
+    padding: 2px;            /* Optional: creates space between image and border */
+    background-color: #fff;  /* Optional: ensures contrast behind transparent logos */
 }
 /* #14243c main colour */
 /* #333333  text colour of side*/
